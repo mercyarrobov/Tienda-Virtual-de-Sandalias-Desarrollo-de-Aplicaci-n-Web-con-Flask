@@ -1,0 +1,18 @@
+.center {
+    position: relative;
+    left: 25%;
+    right: 10%;
+    width: 50%;
+    margin: auto;  
+    padding: 20px;
+}
+
+.center-form{
+    width: 90%;
+    margin: auto;  
+    padding: 20px;
+}
+
+.separador{
+    justify-content: space-between;
+}

@@ -1,0 +1,120 @@
+#titu2 {
+    color: white;
+}
+
+a:hover {
+    background-color: rgb(222, 200, 93);
+  }
+  
+img{
+  padding: 10px;
+}
+
+header.masthead {
+    position: relative;
+    margin-bottom: 3rem;
+    padding-top: calc(8rem + 57px);
+    padding-bottom: 8rem;
+    background: no-repeat center center;
+    background-color: #6c757d;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+}
+
+body {
+    padding: 10px;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.cabezera {
+    z-index: 100;
+    background: rgb(254, 255, 254);
+    color: rgb(132, 17, 17);
+    padding: 1.5rem;
+    left: 0;
+    top: 0;
+    right: 0;
+}
+
+.cabezera a {
+    color: rgb(11, 11, 11);
+    text-decoration: none;
+}
+
+/*Logo*/
+.logo {
+    letter-spacing: 15px;
+    font-size: 1.3em;
+    margin-left: 50px;
+}
+
+.contenedor-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.titulo {
+    margin: 0;
+    padding: 0;
+    width: 800px;
+    text-align: center;
+}
+
+
+/*Lista de datos*/
+.credit-card-div span {
+    padding-top: 10px;
+}
+
+.credit-card-div img {
+    padding-top: 15px;
+    height: 70%;
+    width: 70%;
+    object-fit: contain
+}
+
+.credit-card-div .small-font {
+    font-size: 9px;
+}
+
+.credit-card-div .pad-adjust {
+    padding-top: 10px;
+}
+
+.credit-card-div .col-xs-3 {
+    border: 100px
+}
+
+
+/*Footer*/
+
+.footer {
+    text-align: center;
+}
+
+.footer {
+    width: 100%;
+}
+
+.footer .contenedor-footer {
+    padding: 15px 10px;
+    text-align: center;
+    color: rgb(11, 11, 11);
+}
+
+.footer .contenedor-footer small {
+    font-size: 15px;
+}
